@@ -20,6 +20,9 @@
     "component"
   ],
   "license": "MIT",
+  "files": [
+    "dist/"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port=4100",
