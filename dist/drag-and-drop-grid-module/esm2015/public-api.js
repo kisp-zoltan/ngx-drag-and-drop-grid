@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of drag-and-drop-grid-module
+ */
+export { SamDragAndDropListDataDirective, SamDragAndDropListContentOutletDirective, SamDragAndDropGridComponent } from './lib/sam-drag-and-drop-grid.component';
+export { SamDragAndDropGridModule } from './lib/sam-drag-and-drop-grid.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BzYW0tMTk5NC9uZ3gtZHJhZy1hbmQtZHJvcC1ncmlkLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsdUhBQWMsd0NBQXdDLENBQUM7QUFDdkQseUNBQWMscUNBQXFDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgZHJhZy1hbmQtZHJvcC1ncmlkLW1vZHVsZVxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3NhbS1kcmFnLWFuZC1kcm9wLWdyaWQuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvc2FtLWRyYWctYW5kLWRyb3AtZ3JpZC5tb2R1bGUnO1xyXG4iXX0=

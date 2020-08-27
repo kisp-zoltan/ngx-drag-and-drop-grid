@@ -1,0 +1,45 @@
+{
+  "name": "@sam-1994/ngx-drag-and-drop-grid",
+  "version": "1.0.0",
+  "author": "Samuel Schober",
+  "description": "A simple component for using the @angular/cdk drag and drop sort functions with a mixed orientation grid list",
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sam-1994/ngx-drag-and-drop-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sam-1994/ngx-drag-and-drop-grid/issues"
+  },
+  "homepage": "https://github.com/sam-1994/ngx-drag-and-drop-grid",
+  "keywords": [
+    "angular",
+    "typescript",
+    "drag and drop",
+    "grid",
+    "@angular/cdk",
+    "component"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.1.3",
+    "@angular/core": "^8.1.3",
+    "@angular/cdk": "^8.1.1"
+  },
+  "license": "MIT",
+  "main": "bundles/sam-1994-ngx-drag-and-drop-grid.umd.js",
+  "module": "fesm5/sam-1994-ngx-drag-and-drop-grid.js",
+  "es2015": "fesm2015/sam-1994-ngx-drag-and-drop-grid.js",
+  "esm5": "esm5/sam-1994-ngx-drag-and-drop-grid.js",
+  "esm2015": "esm2015/sam-1994-ngx-drag-and-drop-grid.js",
+  "fesm5": "fesm5/sam-1994-ngx-drag-and-drop-grid.js",
+  "fesm2015": "fesm2015/sam-1994-ngx-drag-and-drop-grid.js",
+  "typings": "sam-1994-ngx-drag-and-drop-grid.d.ts",
+  "metadata": "sam-1994-ngx-drag-and-drop-grid.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
